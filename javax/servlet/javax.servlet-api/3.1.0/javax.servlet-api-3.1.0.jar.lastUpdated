@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Aug 17 17:26:33 CST 2015
+http\://192.168.11.237\:8081/nexus/content/groups/public/.lastUpdated=1439803593431
+@default-https\://oss.sonatype.org/content/groups/jetty/.lastUpdated=1439803368666
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.servlet\:javax.servlet-api\:jar\:3.1.0 from/to central (http\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1439803368654
+https\://oss.sonatype.org/content/groups/jetty/.error=Could not transfer artifact javax.servlet\:javax.servlet-api\:jar\:3.1.0 from/to sonatype-snapshots (https\://oss.sonatype.org/content/groups/jetty)\: The operation was cancelled.
